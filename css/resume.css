@@ -54,6 +54,30 @@ p.lead {
   font-size: 1.5rem;
 }
 
+.social-icons-2 a {
+  display: inline-block;
+  height: 3.5rem;
+  width: 3.5rem;
+  background-color: #BD5D38;
+  color: #fff !important;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  line-height: 3.5rem;
+  margin: 0.1rem;
+  -webkit-transform: scale(0.8);
+  transform: scale(0.8);
+}
+
+.social-icons-2 a:last-child {
+  margin-right: 1px;
+}
+
+.social-icons-2 a:hover {
+  background-color: #fff;
+  color: #BD5D38 !important;
+}
+
 .social-icons a {
   display: inline-block;
   height: 3.5rem;
